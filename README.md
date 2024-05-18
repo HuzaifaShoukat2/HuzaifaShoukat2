@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS, MongoDB, React Native and NodeJS.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase, Python and Django.**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase.**
 
 - 📫 How to reach me **huzaifashoukat11@gmail.com**
   
