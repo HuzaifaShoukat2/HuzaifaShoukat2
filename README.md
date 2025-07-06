@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Shoukat ‍💻 </h1>
 <h3 align="center">I'm a front-end developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
-- 🌱 I’m currently learning **NextJS, MongoDB, React Native and NodeJS.**
+- 🌱 I’m currently learning **C, C++, Python, OOP,.**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase.**
 
